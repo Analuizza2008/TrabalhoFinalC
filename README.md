@@ -26,3 +26,4 @@ Registro de cada aluno: `codigo;nome;disciplina;nota`
 
 ## Autores
 | Matheus Vieira Rocha
+| Ana Luíza Rosa De aguiar
